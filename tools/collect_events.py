@@ -76,19 +76,51 @@ def period(text, published):
 NOT_EVENT = re.compile(r"改修|改装|刷新|リニューアル工事|工事に伴|営業内容|休業|お知らせ|人事|総支配人|総料理長|就任|受賞|開業\s*\d|グランドオープン")
 
 
+BOILERPLATE = [
+    r"\s*\d{1,2}月\d{1,2}日\s*[（(][^）)]{1,3}[）)]\s*(より|から)?\s*",
+    r"\s*\d{1,2}月\d{1,2}日\s*(より|から)\s*",
+    r"(の|を)?\s*(ご?予約受付を?開始|予約開始|販売を?開始|提供を?開始|発売を?開始|発売|開催決定|開催|展開|販売|提供)(いた)?(します|する|中)?\s*[。！!]?\s*$",
+]
+
+
+def make_short(title, names, limit=44):
+    """リリースのタイトルから、ホテル名・会社名の括弧・定型句を除いて企画名だけにする"""
+    t = re.sub(r"…$", "", title)
+    t = re.sub(r"^\s*【[^】]*】\s*", "", t)
+    if "】" in t and "【" not in t.split("】")[0]:      # 括弧の閉じだけ残っている場合は、その後ろを使う
+        t = t.split("】", 1)[1]
+    for n in sorted([n for n in names if n], key=len, reverse=True):
+        chars = [c for c in n if not re.match(r"[\s・･]", c)]
+        if len(chars) >= 3:
+            # 先頭のホテル名だけ消す（途中のものを消すと文が壊れる）
+            t = re.sub(r"^\s*" + r"[\s・･]*".join(re.escape(c) for c in chars), "", t, flags=re.I)
+    for pat in BOILERPLATE:
+        t = re.sub(pat, " ", t)
+    t = re.sub(r"\s+", " ", t)
+    t = re.sub(r"^[\s、，,:：\-–—×/／のはがにてで]+", "", t).strip(" 、，,:：-–—/／")
+    if len(t) < 4:                                       # 削りすぎたら元のタイトルに戻す
+        t = title
+    return t if len(t) <= limit else t[: limit - 1] + "…"
+
+
+def _bigrams(text):
+    t = norm(text.rstrip("…"))
+    return {t[i:i + 2] for i in range(len(t) - 1)}
+
+
+def same_event(a, b):
+    """同じ企画の別リリースか。期間と種類が同じで、企画名（ホテル名を除いたもの）がよく似ているときだけ"""
+    if (a["start"], a["end"], a["kind"]) != (b["start"], b["end"], b["kind"]):
+        return False
+    x, y = _bigrams(a.get("shortTitle") or a["title"]), _bigrams(b.get("shortTitle") or b["title"])
+    return bool(x and y) and len(x & y) / min(len(x), len(y)) >= 0.5
+
+
 def dedupe(events):
-    """同じ期間で、タイトルがよく似たもの（同じ企画の別リリース）は 1 件にする"""
+    """同じ企画の別リリースだけを 1 件にする（同じホテルでも企画名や期間が違えば別件）"""
     out = []
     for e in sorted(events, key=lambda e: (e["start"], e["end"])):
-        same = False
-        for o in out:
-            if o["start"] == e["start"] and o["end"] == e["end"]:
-                a, b = norm(o["title"]), norm(e["title"])
-                common = len(set(a) & set(b)) / max(1, min(len(set(a)), len(set(b))))
-                if common > 0.6:
-                    same = True
-                    break
-        if not same:
+        if not any(same_event(o, e) for o in out):
             out.append(e)
     return out
 
@@ -134,6 +166,7 @@ def collect_for(hotel):
             continue
         found.append({
             "title": short(title),
+            "shortTitle": make_short(title, names),
             "start": p[0].isoformat(),
             "end": p[1].isoformat(),
             "kind": kind_of(title),

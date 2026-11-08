@@ -24,4 +24,4 @@ jobs:
           git config user.name "hotelmap-bot"
           git config user.email "hotelmap-bot@users.noreply.github.com"
           git add events.json
-          git diff --cached --quiet || (git commit -m "events: $(date -u +%Y-%m-%d)" && git push)
+          git diff --cached --quiet || (git commit -m "events: $(date -u +%Y-%m-%d)" && git pull --rebase origin main && git push)
