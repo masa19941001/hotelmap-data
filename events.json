@@ -1,8 +1,39 @@
 {
  "version": 1,
- "updated": "2026-11-08T16:32:43+09:00",
+ "updated": "2026-11-08T17:07:51+09:00",
  "source": "PR TIMES（タイトル・期間・リンクのみ）",
  "events": {
+  "2": [
+   {
+    "title": "北海道の恵み×フランス伝統料理 コートヤード・バイ・マリオット札幌【フランスフェア】開催",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002815.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "10": [
+   {
+    "title": "洋なしの白い花をイメージしたパフェとカクテルで彩るホリデーシーズン「Seasonal Parfait ＆ Cockta…",
+    "start": "2026-11-28",
+    "end": "2027-01-15",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001911.000006521.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ウェスティンホテル仙台】煌めくホリデーシーズンを彩る、こころ華やぐアフタヌーンティー「Afternoon Tea -…",
+    "start": "2026-11-28",
+    "end": "2027-01-15",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001905.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
   "12": [
    {
     "title": "【ザ・リッツ・カールトン東京】地上200メートルの絶景とともに楽しむ2026年フェスティブシーズンを彩る美食と特別な滞在",
@@ -11,6 +42,221 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002931.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "14": [
+   {
+    "title": "【ウェスティンホテル東京】光あふれる空間で随時20種類以上のデザートが彩る”苺尽くし“の4ヶ月「ストロベリー デザート…",
+    "start": "2026-12-28",
+    "end": "2027-04-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002941.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "15": [
+   {
+    "title": "メズム東京、オートグラフ コレクション ー水辺のメズム東京から、心躍る祝祭の船旅へー フェスティブプロモーション『Ho…",
+    "start": "2026-12-01",
+    "end": "2027-01-07",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002581.000030117.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "メズム東京、オートグラフ コレクション 竹芝のウォーターフロントから新たな年への航海が始まる「Holiday Voya…",
+    "start": "2026-12-31",
+    "end": "2027-01-01",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002639.000030117.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "17": [
+   {
+    "title": "【シェラトン都ホテル東京】ベルベットローズに彩られた、心ときめくクリスマス 華やかなクリスマスケーキ3種と「Velve…",
+    "start": "2026-11-01",
+    "end": "2026-12-18",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002372.000023303.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン都ホテル東京】白金台の隠れ家で過ごす、美食と寛ぎのクリスマス 特別なディナーや宿泊プランで思い出に残るひと…",
+    "start": "2026-12-19",
+    "end": "2026-12-25",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002395.000023303.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "18": [
+   {
+    "title": "【JWマリオット・ホテル東京】東京ベイエリアの夜景とともに、新年の幕開けを祝うニューイヤーズイブ ブッフェ＆カウントダ…",
+    "start": "2026-11-16",
+    "end": "2027-01-31",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002929.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "24": [
+   {
+    "title": "【コートヤード・バイ・マリオット 東京ステーション】秋のディナーを彩る近江牛寿司が登場、LAVAROCK流の豪快な味わ…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001869.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "28": [
+   {
+    "title": "【モクシー東京錦糸町】ホリデーシーズンは、MoxyでPlay On. この冬だけの特別オファーが登場！",
+    "start": "2026-09-05",
+    "end": "2027-01-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002930.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "31": [
+   {
+    "title": "シェラトン・グランデ・トーキョーベイ・ホテルにて、三喜雑貨 期間限定ショップ －今、出会いたいJAPAN－ を10月1…",
+    "start": "2026-10-16",
+    "end": "2026-11-15",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000067.000047806.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "シェラトン・グランデ・トーキョーベイ・ホテル 「芋×栗 スイーツ&ベーカリー」11月1日（日）より開始",
+    "start": "2026-11-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000290.000015667.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "シェラトン・グランデ・トーキョーベイ・ホテル 華やかなホリデーシーズンを彩る「クリスマスブッフェ」を開催",
+    "start": "2026-11-01",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000291.000015667.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "37": [
+   {
+    "title": "【ウェスティンホテル横浜】大切な人と過ごすクリスマス。3つのレストラン＆バーで楽しむホリデー限定メニューを提供",
+    "start": "2026-12-18",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002908.000011305.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ウェスティンホテル横浜】一年の終わりを華やかに、新しい年の始まりを特別に。",
+    "start": "2026-12-26",
+    "end": "2027-01-05",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002937.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "40": [
+   {
+    "title": "【軽井沢マリオットホテル】“信州×発酵×秋の実り”が織りなす、軽井沢で味わう秋限定ディナーコース「Prime Shin…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001827.000006521.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【軽井沢マリオットホテル】冬の軽井沢で、信州の郷土料理「鯉こく」のフレンチ仕立てなど信州の食文化を味わう ディナーコー…",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001913.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "41": [
+   {
+    "title": "【コートヤード・バイ・マリオット 白馬】白馬の紅葉、棚田、秋深まる森を一皿ごとに表現「Shinshu Blessing…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001825.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "43": [
+   {
+    "title": "【富士マリオットホテル山中湖】秋の山梨ブランド肉を贅沢に味わう「富士山トリプルミートバーガー」を発売 山椒香る赤ワイン…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001843.000006521.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "富士マリオットホテル山中湖 山梨と富士山麓の恵みを味わう、実りの秋を彩るディナーコース 「Terroir Yamana…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001837.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "44": [
+   {
+    "title": "【コートヤード・バイ・マリオット福井】コートヤード・バイ・マリオット福井 2026 クリスマスケーキコレクション",
+    "start": "2026-10-01",
+    "end": "2026-12-18",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002870.000011305.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【コートヤード・バイ・マリオット福井】苺やピスタチオが彩る、心ときめくクリスマスアフタヌーンティーが登場",
+    "start": "2026-11-24",
+    "end": "2026-12-25",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002914.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "51": [
+   {
+    "title": "【伊豆マリオットホテル修善寺】秋の味覚とクラフトビールが織りなす調和 「Flavors of Autumn Harmo…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001838.000006521.html",
     "fetched": "2026-11-08"
    }
   ],
@@ -54,6 +300,84 @@
     "fetched": "2026-11-08"
    }
   ],
+  "62": [
+   {
+    "title": "【大阪マリオット都ホテル】北海道産牛のグリルやポークのロースト、北海道名物ジンギスカンにスープカレーも！ディナータイム…",
+    "start": "2026-11-01",
+    "end": "2027-01-07",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002398.000023303.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【大阪マリオット都ホテル】白と煌めきが彩る冬限定アフタヌーンティーが登場！クリスマス期間は、黒トリュフが香るホットサン…",
+    "start": "2026-12-01",
+    "end": "2027-01-31",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002399.000023303.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "63": [
+   {
+    "title": "【ウェスティンホテル大阪】11/1～クリスマスケーキの予約受付を開始",
+    "start": "2026-11-01",
+    "end": "2026-12-17",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000071.000010086.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ウェスティンホテル大阪】大阪で味わい尽くす北陸の冬 わずか6日間の「居酒屋イベント」から、会席・鉄板焼・天婦羅まで。",
+    "start": "2026-11-01",
+    "end": "2026-12-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000010086.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ウェスティンホテル大阪】「クリスマスアフタヌーンティー」11/11登場",
+    "start": "2026-11-11",
+    "end": "2026-12-25",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000070.000010086.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "64": [
+   {
+    "title": "【シェラトン都ホテル大阪】正月モチーフの限定スイーツが今年も登場！毎年人気の「スイーツおせち」 2026年11月1日（…",
+    "start": "2026-11-01",
+    "end": "2026-12-26",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002411.000023303.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン都ホテル大阪】クリスマス限定メニュー登場「世界三大珍味」を堪能する創作フレンチディナーや昨年大好評の「ザ・…",
+    "start": "2026-12-19",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002412.000023303.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン都ホテル大阪】2027年の干支“ひつじ”がもこもこケーキに！新年の幕開けを祝う「干支スイーツ～丁未～」を数…",
+    "start": "2026-12-31",
+    "end": "2027-01-17",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002420.000023303.html",
+    "fetched": "2026-11-08"
+   }
+  ],
   "79": [
    {
     "title": "【翠嵐 ラグジュアリーコレクションホテル 京都】発酵の叡智を味わう 発酵がテーマの「和のアフタヌーンティー」に秋メニュ…",
@@ -85,6 +409,26 @@
     "fetched": "2026-11-08"
    }
   ],
+  "82": [
+   {
+    "title": "【ウェスティン都ホテル京都】紅葉の京都を映す丹波栗のモンブランパフェ11月限定販売 柚子とバニラアイスで最後まで飽きな…",
+    "start": "2026-11-01",
+    "end": "2026-11-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002385.000023303.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ウェスティン都ホテル京都】サンタの帽子、プレゼントを表現したクリスマスアフタヌーンティーを販売。ホリデーシーズンを迎…",
+    "start": "2026-12-01",
+    "end": "2026-12-25",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002400.000023303.html",
+    "fetched": "2026-11-08"
+   }
+  ],
   "93": [
    {
     "title": "【JWマリオット・ホテル奈良】「クリスマスケーキコレクション2026」の予約受付を開始 今年の注目は、姉妹都市「青の都…",
@@ -105,6 +449,137 @@
     "fetched": "2026-11-08"
    }
   ],
+  "94": [
+   {
+    "title": "【紫翠 ラグジュアリーコレクションホテル 奈良】奈良国立博物館「第78回 正倉院展」入場券付き宿泊プランを販売",
+    "start": "2026-10-23",
+    "end": "2026-11-10",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001895.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "97": [
+   {
+    "title": "神戸マリオットホテル内「restaurant GRILL TABLE」 【栗×かぼちゃ×キャラメル】秋のアフタヌーンテ…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000813.000010391.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "神戸マリオットホテル「ザ マーカススクエア 神戸」 数量限定 生おせち 9月1日(火)より予約開始",
+    "start": "2026-09-01",
+    "end": "2026-12-23",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000829.000010391.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "神戸マリオットホテル17階「restaurant GRILL TABLE」 ホテル最上階のダイニングで冬の味覚を味わう…",
+    "start": "2026-12-19",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000848.000010391.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "104": [
+   {
+    "title": "琵琶湖マリオットホテル シャインマスカットが彩る秋のパフェ。10月はハロウィン限定のパープルカラーで登場「Autumn…",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001848.000006521.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "琵琶湖マリオットホテル聖夜を彩る真紅のいちごが宝石のようにきらめく2種の限定クリスマスケーキを発売",
+    "start": "2026-10-19",
+    "end": "2026-12-26",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001890.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "106": [
+   {
+    "title": "【南紀白浜マリオットホテル】和歌山の食材×和洋の感性が響き合うクエ尽くしのディナー「クエ会席～紀州・熊野の恵み～」を発売",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001912.000006521.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Straw…",
+    "start": "2026-12-01",
+    "end": "2027-03-31",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001906.000006521.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "109": [
+   {
+    "title": "【シェラトングランドホテル広島】11月限定スイーツブッフェ「Christmas（クリスマス）」開催",
+    "start": "2026-11-01",
+    "end": "2026-11-29",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002918.000011305.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトングランドホテル広島】秋の味覚と全国各地のご当地グルメを堪能 11月限定「ジャパンフェア」を開催",
+    "start": "2026-11-01",
+    "end": "2026-11-30",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002926.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "120": [
+   {
+    "title": "【シェラトン鹿児島】クリスマスケーキコレクション 2026",
+    "start": "2026-09-25",
+    "end": "2026-12-10",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000045.000119016.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン鹿児島】煌めく季節を、鹿児島の絶景とともに『クリスマスアフタヌーンティー』が登場！",
+    "start": "2026-11-01",
+    "end": "2026-12-25",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000046.000119016.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "122": [
+   {
+    "title": "長崎マリオットホテルが贈る2026年クリスマスケーキ予約開始【JR九州ホテルズアンドリゾーツ】",
+    "start": "2026-10-01",
+    "end": "2026-12-13",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001394.000037933.html",
+    "fetched": "2026-11-08"
+   }
+  ],
   "125": [
    {
     "title": "【ザ・リッツ・カールトン沖縄】プレミアム・ヴィーガン・ビューティーブランド d’Alba（ダルバ）との期間限定コラボレ…",
@@ -116,6 +591,64 @@
     "fetched": "2026-11-08"
    }
   ],
+  "126": [
+   {
+    "title": "【コートヤード・バイ・マリオット沖縄リゾート】“サーフ & ターフ クリスマスディナー” & “3種のクリスマスケーキ…",
+    "start": "2026-11-04",
+    "end": "2026-12-13",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002935.000011305.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "127": [
+   {
+    "title": "【シェラトン沖縄サンマリーナリゾート】～国産牛リブステーキ、あぐー、伊勢海老を一皿で～シェアして楽しむ豪快なディナー「…",
+    "start": "2026-09-01",
+    "end": "2026-12-31",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000024.000082872.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン沖縄サンマリーナリゾート】～薩摩揚げやチキン南蛮など九州の“うまか”を集めたご当地グルメを週末限定で～ラン…",
+    "start": "2026-10-03",
+    "end": "2026-12-27",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000025.000082872.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン沖縄サンマリーナリゾート】～目の前で仕上げ、切り分ける“ライブ感”を大切な人とシェア～限定ディナーコース「…",
+    "start": "2026-12-30",
+    "end": "2027-01-02",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000082872.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン沖縄サンマリーナリゾート】～国産牛ステーキと沖縄の恵みをライブキッチンの出来立てで味わう～一年の締めくくり…",
+    "start": "2026-12-30",
+    "end": "2027-01-02",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000082872.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【シェラトン沖縄サンマリーナリゾート】～琉球舞踊・エイサー・獅子舞とカウントダウン花火で迎える新年年末～年始特別イベン…",
+    "start": "2026-12-31",
+    "end": "2027-01-03",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000026.000082872.html",
+    "fetched": "2026-11-08"
+   }
+  ],
   "147": [
    {
     "title": "コンラッド東京、12月1日（火）より「Her lip to Lounge 2026」を開催",
@@ -124,6 +657,59 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000251.000031000.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "149": [
+   {
+    "title": "【ヒルトン東京お台場】東京湾を望む「シースケープ テラス・ダイニング」リニューアル後初の「フェスティブビュッフェ」～旬…",
+    "start": "2026-11-16",
+    "end": "2027-01-17",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002164.000016207.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "153": [
+   {
+    "title": "【ヒルトン成田】25年以上続くサンタのプレゼントデリバリー 1日10室限定！サンタクロースが客室にやってくるクリスマス…",
+    "start": "2026-11-01",
+    "end": "2026-12-15",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002178.000016207.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "154": [
+   {
+    "title": "【ヒルトン横浜】2026年クリスマスケーキコレクション",
+    "start": "2026-10-08",
+    "end": "2026-12-13",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000068.000115530.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ヒルトン横浜】お酒を愉しむ夜のスイーツセット「Dolce Vivo (ドルチェヴィーヴォ)」が新登場",
+    "start": "2026-11-01",
+    "end": "2026-12-17",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000067.000115530.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "160": [
+   {
+    "title": "ヒルトン名古屋 日本料理「源氏」東海三県の恵みを味わうシグネチャー会席『源氏物語』第三章「浮舟」的矢かき会席11 月3…",
+    "start": "2026-11-30",
+    "end": "2027-02-14",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000155.000034342.html",
     "fetched": "2026-11-08"
    }
   ],
@@ -169,6 +755,97 @@
     "fetched": "2026-11-08"
    }
   ],
+  "171": [
+   {
+    "title": "ダブルツリーbyヒルトン大阪城 9月1日（火）より「栗とマスカットのキャッスルアフタヌーンティー」を提供開始",
+    "start": "2026-09-01",
+    "end": "2026-11-15",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000027.000134637.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "ダブルツリーbyヒルトン大阪城【リバーサイド・クリスマス 2026】",
+    "start": "2026-11-16",
+    "end": "2026-12-27",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000028.000134637.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "172": [
+   {
+    "title": "【ヒルトン広島】約100の協賛により実現する、巨大ジオラマ「2026 クリスマス・トレイン」を展示",
+    "start": "2026-11-08",
+    "end": "2027-01-08",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000089.000087710.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ヒルトン広島】フェスティブシーズン限定「クリスマスを描くアフタヌーンティー」を提供",
+    "start": "2026-11-09",
+    "end": "2026-12-25",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000088.000087710.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "174": [
+   {
+    "title": "ラベンダー色に煌めく、優雅な宮殿のクリスマス「Christmas Palace（クリスマス・パレス）」ヒルトン福岡シー…",
+    "start": "2026-11-07",
+    "end": "2026-12-27",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000125.000064269.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "176": [
+   {
+    "title": "【ヒルトン沖縄北谷リゾート】2026年クリスマステーマは 『深海に煌めく星降る静寂のクリスマス』",
+    "start": "2026-11-07",
+    "end": "2026-12-26",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000055.000060961.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ヒルトン沖縄北谷リゾート】『冬の味覚と春を誘う和の饗宴』和食フェア",
+    "start": "2026-11-10",
+    "end": "2027-03-08",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000056.000060961.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ヒルトン沖縄北谷リゾート】フェスティブシーズン2026 - 2027",
+    "start": "2026-12-27",
+    "end": "2027-01-07",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000057.000060961.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "177": [
+   {
+    "title": "【ダブルツリーbyヒルトン沖縄北谷リゾート】ランチ＆スイーツビュッフェ『白銀の塔の姫～黄金の髪の記憶～』",
+    "start": "2026-09-19",
+    "end": "2027-01-11",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000018.000054501.html",
+    "fetched": "2026-11-08"
+   }
+  ],
   "194": [
    {
     "title": "インターコンチネンタル札幌 北海道の恵みと札幌の冬を楽しむ、季節限定の食体験",
@@ -177,6 +854,195 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000030.000164727.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "200": [
+   {
+    "title": "【インターコンチネンタル横浜Pier 8】ホテルから横浜赤レンガ倉庫のクリスマスマーケットへ 優先入場ペアチケットとノ…",
+    "start": "2026-11-20",
+    "end": "2026-12-25",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000011.000180629.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【インターコンチネンタル横浜Pier 8】パティシエ特製の記念日ケーキ付き、大切な日を彩る新ディナーコース「Soiré…",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000013.000180629.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "204": [
+   {
+    "title": "ANAインターコンチネンタル石垣リゾート従来の3倍超へ拡張、石垣島の海を遊び尽くす海上アスレチック『マエサトオーシャン…",
+    "start": "2026-03-14",
+    "end": "2026-11-30",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000068.000009454.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "207": [
+   {
+    "title": "【リーガロイヤルホテル大阪】7日間限定！クリスマスを彩る華やかなごちそうで、たいせつな人と心に残るひとときを「クリスマ…",
+    "start": "2026-11-01",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002517.000016682.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【リーガロイヤルホテル大阪】期間限定！昨年好評の“甘い競演”が再び開幕！「いちごvsチョコレートアフタヌーンティー」",
+    "start": "2026-11-24",
+    "end": "2027-02-14",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002527.000016682.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "209": [
+   {
+    "title": "【ホテルインディゴ東京渋谷】素材を余すことなく生かす、サステナブルな一杯を。新バーコンセプト「Second Life …",
+    "start": "2026-09-01",
+    "end": "2027-02-28",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000080.000123158.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ東京渋谷】いちごの魅力を巡る「ストロベリーアドベンチャー」3つのテーマで展開するアフタヌーンティーが…",
+    "start": "2026-11-01",
+    "end": "2027-01-03",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000082.000123158.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ東京渋谷】クリスマスと新年を彩るシーズナルメニュー",
+    "start": "2026-12-23",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000083.000123158.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "211": [
+   {
+    "title": "【ホテルインディゴ犬山有楽苑】犬山で迎える、新しい年のはじまり“時間そのものが旅”",
+    "start": "2026-08-28",
+    "end": "2026-12-28",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000066.000116513.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ犬山有楽苑】Inuyama Christmas Story クリスマスに犬山の物語と彩りを",
+    "start": "2026-09-07",
+    "end": "2026-12-22",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000069.000116513.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ犬山有楽苑】心と身体を温めるウィンター・ウェルビーイングステイ",
+    "start": "2026-10-09",
+    "end": "2027-03-26",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000072.000116513.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ犬山有楽苑】日本料理の名店「賛否両論」笠原 将弘氏が犬山に再び",
+    "start": "2026-10-16",
+    "end": "2026-12-05",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000073.000116513.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ犬山有楽苑】冬灯りの甘味小路 スイーツビュッフェ",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000071.000116513.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ホテルインディゴ犬山有楽苑】犬山 冬庭遊山（とうていゆさん）アフタヌーンティー",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000070.000116513.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "213": [
+   {
+    "title": "【voco大阪セントラル】オランダの風を感じるコラボ企画から秋バラのアフタヌーンティーまで。この秋注目のフードプロモー…",
+    "start": "2026-09-01",
+    "end": "2026-11-20",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000047.000117222.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【voco大阪セントラル】童心のワクワク感を呼び覚ます「クリスマス絵本のアフタヌーンティー」を11月21日（土）より開…",
+    "start": "2026-11-21",
+    "end": "2026-12-27",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000051.000117222.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "225": [
+   {
+    "title": "【ANAクラウンプラザホテル神戸】2026年クリスマスケーキコレクション、11月1日より予約開始！",
+    "start": "2026-11-01",
+    "end": "2026-12-20",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000065.000071454.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "226": [
+   {
+    "title": "【ANAクラウンプラザホテル岡山】星空のきらめきに包まれる、心ときめくクリスマス 限定ディナーやスイーツを展開",
+    "start": "2026-10-01",
+    "end": "2026-12-15",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000041.000015641.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "238": [
+   {
+    "title": "一年の感謝を伝え、新たな年を祝うひとときに。ANAホリデイ・イン東京ベイ「2026-2027 忘・新年会プラン」11月…",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000990.000053012.html",
     "fetched": "2026-11-08"
    }
   ],
@@ -352,6 +1218,101 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000431.000047917.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "294": [
+   {
+    "title": "【ハイアット リージェンシー 東京】冬の午後を優雅に包むフェスティブアフタヌーンティー",
+    "start": "2026-12-01",
+    "end": "2027-01-31",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000040.000149320.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "296": [
+   {
+    "title": "ハイアット セントリック 銀座 東京 NAMIKI667×アートアクアリム美術館 GINZA 10月10日(土)～11…",
+    "start": "2026-10-10",
+    "end": "2026-11-30",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000288.000060756.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "299": [
+   {
+    "title": "【ハイアット リージェンシー 箱根 リゾート＆スパ】秋のアフタヌーンティー「森の収穫祭」がスタート",
+    "start": "2026-09-01",
+    "end": "2026-11-30",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000042.000033799.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "300": [
+   {
+    "title": "【ハイアット リージェンシー 横浜】 スペシャリティレストラン「MILANO | GRILL」 2026年クリスマスデ…",
+    "start": "2026-12-24",
+    "end": "2026-12-25",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000071.000053527.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "301": [
+   {
+    "title": "ハイアット セントリック 金沢 | 香箱ガニから始まる、冬の味覚と発酵食文化の饗宴「金沢産食材フェア 〜 発酵ガストロ…",
+    "start": "2026-11-19",
+    "end": "2026-12-23",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000100.000058398.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "ハイアット セントリック 金沢 | 時を越えて愛されるスイーツに、新たなエッセンスを重ねて贈る「ネオクラシック アフタ…",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "afternoonTea",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000102.000058398.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "303": [
+   {
+    "title": "【ハイアット リージェンシー 京都】大切な人たちと過ごすホリデーシーズンに、ホテルメイドの「Festive Sweet…",
+    "start": "2026-12-23",
+    "end": "2026-12-25",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000110.000036993.html",
+    "fetched": "2026-11-08"
+   },
+   {
+    "title": "【ハイアット リージェンシー 京都】ル・プチシェフの新作「How to Become the World’s Grea…",
+    "start": "2026-12-30",
+    "end": "2027-01-03",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000111.000036993.html",
+    "fetched": "2026-11-08"
+   }
+  ],
+  "308": [
+   {
+    "title": "グランド ハイアット 福岡 クリスマスプロモーション 2026",
+    "start": "2026-11-01",
+    "end": "2027-01-05",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000062.000119036.html",
     "fetched": "2026-11-08"
    }
   ]
