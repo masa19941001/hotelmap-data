@@ -1,0 +1,27 @@
+name: Collect hotel events
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 毎日 JST 6:00
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Collect events
+        run: python3 tools/collect_events.py
+      - name: Commit if changed
+        run: |
+          git config user.name "hotelmap-bot"
+          git config user.email "hotelmap-bot@users.noreply.github.com"
+          git add events.json
+          git diff --cached --quiet || (git commit -m "events: $(date -u +%Y-%m-%d)" && git push)

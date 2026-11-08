@@ -1,0 +1,1 @@
+# collect_events.py は Python の標準ライブラリだけで動きます（追加のパッケージは不要）

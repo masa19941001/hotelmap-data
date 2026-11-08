@@ -1,0 +1,2236 @@
+{
+ "hotels": [
+  {
+   "id": 0,
+   "name": "東山ニセコビレッジ ザ・リッツ・カールトン・リザーブ",
+   "nameEn": "Higashiyama Niseko Village, a Ritz-Carlton Reserve",
+   "pref": "hokkaido",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 1,
+   "name": "フェアフィールド・バイ・マリオット札幌",
+   "nameEn": "Fairfield by Marriott Sapporo",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 2,
+   "name": "コートヤード・バイ・マリオット札幌",
+   "nameEn": "Courtyard by Marriott Sapporo",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 3,
+   "name": "ウェスティン ルスツ リゾート",
+   "nameEn": "The Westin Rusutsu Resort",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 4,
+   "name": "フォーポイント・フレックス・バイ・シェラトン函館駅",
+   "nameEn": "Four Points Flex by Sheraton Hakodate Station",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 5,
+   "name": "KIMAMAYA by odin",
+   "nameEn": "KIMAMAYA by odin, a Member of Design Hotels",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 6,
+   "name": "モクシー・ニセコビレッジ",
+   "nameEn": "Moxy Niseko Village",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 7,
+   "name": "フェアフィールド・バイ・マリオット北海道えにわ",
+   "nameEn": "Fairfield by Marriott Hokkaido Eniwa",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 8,
+   "name": "フェアフィールド・バイ・マリオット北海道長沼マオイの丘公園",
+   "nameEn": "Fairfield by Marriott Hokkaido Naganuma Maoinooka Park",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 9,
+   "name": "フェアフィールド・バイ・マリオット北海道南富良野",
+   "nameEn": "Fairfield by Marriott Hokkaido Minamifurano",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 10,
+   "name": "ウェスティンホテル仙台",
+   "nameEn": "The Westin Sendai",
+   "pref": "miyagi",
+   "soon": false
+  },
+  {
+   "id": 11,
+   "name": "フォーポイント・フレックス・バイ・シェラトン盛岡",
+   "nameEn": "Four Points Flex by Sheraton Morioka",
+   "pref": "iwate",
+   "soon": false
+  },
+  {
+   "id": 12,
+   "name": "ザ・リッツ・カールトン東京",
+   "nameEn": "The Ritz-Carlton, Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 13,
+   "name": "東京エディション虎ノ門",
+   "nameEn": "The Tokyo EDITION, Toranomon",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 14,
+   "name": "ウェスティンホテル東京",
+   "nameEn": "The Westin Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 15,
+   "name": "メズム東京、オートグラフ コレクション",
+   "nameEn": "mesm Tokyo, Autograph Collection",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 16,
+   "name": "ザ・プリンス さくらタワー東京、オートグラフ コレクション",
+   "nameEn": "The Prince Sakura Tower Tokyo, Autograph Collection",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 17,
+   "name": "シェラトン都ホテル東京",
+   "nameEn": "Sheraton Miyako Hotel Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 18,
+   "name": "JWマリオット・ホテル東京",
+   "nameEn": "JW Marriott Hotel Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 19,
+   "name": "ザ・プリンスギャラリー 東京紀尾井町、ラグジュアリーコレクションホテル",
+   "nameEn": "The Prince Gallery Tokyo Kioicho, a Luxury Collection Hotel",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 20,
+   "name": "フォーポイント・フレックス・バイ・シェラトン東京東神田",
+   "nameEn": "Four Points Flex by Sheraton Tokyo Higashi-Kanda",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 21,
+   "name": "東京マリオットホテル",
+   "nameEn": "Tokyo Marriott Hotel",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 22,
+   "name": "ブルガリ ホテル 東京",
+   "nameEn": "Bulgari Hotel Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 23,
+   "name": "東京エディション銀座",
+   "nameEn": "The Tokyo EDITION, Ginza",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 24,
+   "name": "コートヤード・バイ・マリオット東京ステーション",
+   "nameEn": "Courtyard by Marriott Tokyo Station",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 25,
+   "name": "ACホテル・バイ・マリオット東京銀座",
+   "nameEn": "AC Hotel by Marriott Tokyo Ginza",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 26,
+   "name": "アロフト東京銀座",
+   "nameEn": "Aloft Tokyo Ginza",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 27,
+   "name": "コートヤード・バイ・マリオット銀座東武ホテル",
+   "nameEn": "Courtyard by Marriott Tokyo Ginza Hotel",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 28,
+   "name": "モクシー東京錦糸町",
+   "nameEn": "Moxy Tokyo Kinshicho",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 29,
+   "name": "フォーポイント・フレックス・バイ・シェラトン東京上野",
+   "nameEn": "Four Points Flex by Sheraton Tokyo Ueno",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 30,
+   "name": "フォーポイント・フレックス・バイ・シェラトン東京渋谷ウエスト",
+   "nameEn": "Four Points Flex by Sheraton Tokyo Shibuya West",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 31,
+   "name": "シェラトン・グランデ・トーキョーベイ・ホテル",
+   "nameEn": "Sheraton Grande Tokyo Bay Hotel",
+   "pref": "chiba",
+   "soon": false
+  },
+  {
+   "id": 32,
+   "name": "ザ・リッツ・カールトン日光",
+   "nameEn": "The Ritz-Carlton, Nikko",
+   "pref": "tochigi",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 33,
+   "name": "フェアフィールド・バイ・マリオット栃木日光",
+   "nameEn": "Fairfield by Marriott Tochigi Nikko",
+   "pref": "tochigi",
+   "soon": false
+  },
+  {
+   "id": 34,
+   "name": "フェアフィールド・バイ・マリオット栃木もてぎ",
+   "nameEn": "Fairfield by Marriott Tochigi Motegi",
+   "pref": "tochigi",
+   "soon": false
+  },
+  {
+   "id": 35,
+   "name": "フェアフィールド・バイ・マリオット栃木宇都宮",
+   "nameEn": "Fairfield by Marriott Tochigi Utsunomiya",
+   "pref": "tochigi",
+   "soon": false
+  },
+  {
+   "id": 36,
+   "name": "フォーポイント・フレックス・バイ・シェラトン宇都宮",
+   "nameEn": "Four Points Flex by Sheraton Utsunomiya",
+   "pref": "tochigi",
+   "soon": false
+  },
+  {
+   "id": 37,
+   "name": "ウェスティンホテル横浜",
+   "nameEn": "The Westin Yokohama",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 38,
+   "name": "横浜ベイシェラトン ホテル＆タワーズ",
+   "nameEn": "Yokohama Bay Sheraton Hotel & Towers",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 39,
+   "name": "フォーポイント・フレックス・バイ・シェラトン横浜駅西",
+   "nameEn": "Four Points Flex by Sheraton Yokohama Station West",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 40,
+   "name": "軽井沢マリオットホテル",
+   "nameEn": "Karuizawa Marriott Hotel",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 41,
+   "name": "コートヤード・バイ・マリオット白馬",
+   "nameEn": "Courtyard by Marriott Hakuba",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 42,
+   "name": "松本十帖",
+   "nameEn": "Matsumoto Jujo, a Member of Design Hotels",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 43,
+   "name": "富士マリオットホテル山中湖",
+   "nameEn": "Fuji Marriott Hotel Lake Yamanaka",
+   "pref": "yamanashi",
+   "soon": false
+  },
+  {
+   "id": 44,
+   "name": "コートヤード・バイ・マリオット福井",
+   "nameEn": "Courtyard by Marriott Fukui",
+   "pref": "fukui",
+   "soon": false
+  },
+  {
+   "id": 45,
+   "name": "フォーポイント・フレックス・バイ・シェラトン金沢",
+   "nameEn": "Four Points Flex by Sheraton Kanazawa",
+   "pref": "ishikawa",
+   "soon": false
+  },
+  {
+   "id": 46,
+   "name": "名古屋マリオットアソシアホテル",
+   "nameEn": "Nagoya Marriott Associa Hotel",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 47,
+   "name": "コートヤード・バイ・マリオット名古屋",
+   "nameEn": "Courtyard by Marriott Nagoya",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 48,
+   "name": "TIAD、オートグラフ コレクション",
+   "nameEn": "TIAD, Autograph Collection",
+   "pref": "aichi",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 49,
+   "name": "フォーポイント・フレックス・バイ・シェラトン名古屋駅前",
+   "nameEn": "Four Points Flex by Sheraton Nagoya Station",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 50,
+   "name": "フォーポイント・バイ・シェラトン名古屋 中部国際空港",
+   "nameEn": "Four Points by Sheraton Nagoya, Chubu International Airport",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 51,
+   "name": "伊豆マリオットホテル修善寺",
+   "nameEn": "Izu Marriott Hotel Shuzenji",
+   "pref": "shizuoka",
+   "soon": false
+  },
+  {
+   "id": 52,
+   "name": "浜松マリオットホテル",
+   "nameEn": "Hamamatsu Marriott Hotel",
+   "pref": "shizuoka",
+   "soon": false
+  },
+  {
+   "id": 53,
+   "name": "フェアフィールド・バイ・マリオット岐阜清流里山公園",
+   "nameEn": "Fairfield by Marriott Gifu Seiryu Satoyama Park",
+   "pref": "gifu",
+   "soon": false
+  },
+  {
+   "id": 54,
+   "name": "フェアフィールド・バイ・マリオット岐阜美濃",
+   "nameEn": "Fairfield by Marriott Gifu Mino",
+   "pref": "gifu",
+   "soon": false
+  },
+  {
+   "id": 55,
+   "name": "フェアフィールド・バイ・マリオット岐阜郡上",
+   "nameEn": "Fairfield by Marriott Gifu Gujo",
+   "pref": "gifu",
+   "soon": false
+  },
+  {
+   "id": 56,
+   "name": "フェアフィールド・バイ・マリオット岐阜高山白川郷",
+   "nameEn": "Fairfield by Marriott Gifu Takayama Shirakawago",
+   "pref": "gifu",
+   "soon": false
+  },
+  {
+   "id": 57,
+   "name": "フェアフィールド・バイ・マリオット三重熊野古道みはま",
+   "nameEn": "Fairfield by Marriott Mie Kumano Kodo Mihama",
+   "pref": "mie",
+   "soon": false
+  },
+  {
+   "id": 58,
+   "name": "フェアフィールド・バイ・マリオット三重奥伊勢おおだい",
+   "nameEn": "Fairfield by Marriott Mie Okuise Odai",
+   "pref": "mie",
+   "soon": false
+  },
+  {
+   "id": 59,
+   "name": "ザ・リッツ・カールトン大阪",
+   "nameEn": "The Ritz-Carlton, Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 60,
+   "name": "セントレジスホテル大阪",
+   "nameEn": "The St. Regis Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 61,
+   "name": "W大阪",
+   "nameEn": "W Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 62,
+   "name": "大阪マリオット都ホテル",
+   "nameEn": "Osaka Marriott Miyako Hotel",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 63,
+   "name": "ウェスティンホテル大阪",
+   "nameEn": "The Westin Osaka",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 64,
+   "name": "シェラトン都ホテル大阪",
+   "nameEn": "Sheraton Miyako Hotel Osaka",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 65,
+   "name": "コートヤード・バイ・マリオット新大阪ステーション",
+   "nameEn": "Courtyard by Marriott Shin-Osaka Station",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 66,
+   "name": "アロフト大阪堂島",
+   "nameEn": "Aloft Osaka Dojima",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 67,
+   "name": "コートヤード・バイ・マリオット大阪本町",
+   "nameEn": "Courtyard by Marriott Osaka Honmachi",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 68,
+   "name": "モクシー大阪新梅田",
+   "nameEn": "Moxy Osaka Shin Umeda",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 69,
+   "name": "モクシー大阪本町",
+   "nameEn": "Moxy Osaka Honmachi",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 70,
+   "name": "フェアフィールド・バイ・マリオット大阪難波",
+   "nameEn": "Fairfield by Marriott Osaka Namba",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 71,
+   "name": "シティエクスプレス by マリオット大阪難波南",
+   "nameEn": "City Express by Marriott Osaka Namba South",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 72,
+   "name": "シティエクスプレス by マリオット大阪新今宮",
+   "nameEn": "City Express by Marriott Osaka Shin-Imamiya",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 73,
+   "name": "THE OSAKA STATION HOTEL, Autograph Collection",
+   "nameEn": "The Osaka Station Hotel, Autograph Collection",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 74,
+   "name": "フォーポイント・フレックス・バイ・シェラトン大阪梅田",
+   "nameEn": "Four Points Flex by Sheraton Osaka Umeda",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 75,
+   "name": "フォーポイント・フレックス・バイ・シェラトン大阪北浜",
+   "nameEn": "Four Points Flex by Sheraton Osaka Kitahama",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 76,
+   "name": "フォーポイント・フレックス・バイ・シェラトン新大阪",
+   "nameEn": "Four Points Flex by Sheraton Shin-Osaka",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 77,
+   "name": "フォーポイント・フレックス・バイ・シェラトン大阪心斎橋",
+   "nameEn": "Four Points Flex by Sheraton Osaka Shinsaibashi",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 78,
+   "name": "スガタ ホテル 大阪心斎橋 シリーズ by マリオット",
+   "nameEn": "Sugata Hotel Osaka Shinsaibashi, Series by Marriott",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 79,
+   "name": "翠嵐 ラグジュアリーコレクションホテル 京都",
+   "nameEn": "Suiran, a Luxury Collection Hotel, Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 80,
+   "name": "HOTEL THE MITSUI KYOTO ラグジュアリーコレクションホテル＆スパ",
+   "nameEn": "Hotel The Mitsui Kyoto, a Luxury Collection Hotel & Spa",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 81,
+   "name": "ザ・リッツ・カールトン京都",
+   "nameEn": "The Ritz-Carlton, Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 82,
+   "name": "ウェスティン都ホテル京都",
+   "nameEn": "The Westin Miyako Kyoto",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 83,
+   "name": "ザ・プリンス 京都宝ヶ池、オートグラフ コレクション",
+   "nameEn": "The Prince Kyoto Takaragaike, Autograph Collection",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 84,
+   "name": "Genji Kyoto",
+   "nameEn": "Genji Kyoto, a Member of Design Hotels",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 85,
+   "name": "チャプター京都 トリビュートポートフォリオホテル",
+   "nameEn": "Chapter Kyoto, a Tribute Portfolio Hotel",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 86,
+   "name": "モクシー京都二条",
+   "nameEn": "Moxy Kyoto Nijo",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 87,
+   "name": "フォーポイント・フレックス・バイ・シェラトン京都御池",
+   "nameEn": "Four Points Flex by Sheraton Kyoto Oike",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 88,
+   "name": "コートヤード・バイ・マリオット京都四条烏丸",
+   "nameEn": "Courtyard by Marriott Kyoto Shijo Karasuma",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 89,
+   "name": "京都マリオットホテル",
+   "nameEn": "Kyoto Marriott Hotel",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 90,
+   "name": "フェアフィールド・バイ・マリオット京都みなみやましろ",
+   "nameEn": "Fairfield by Marriott Kyoto Minamiyamashiro",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 91,
+   "name": "フェアフィールド・バイ・マリオット京都京丹波",
+   "nameEn": "Fairfield by Marriott Kyoto Kyotamba",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 92,
+   "name": "フェアフィールド・バイ・マリオット京都天橋立",
+   "nameEn": "Fairfield by Marriott Kyoto Amanohashidate",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 93,
+   "name": "JWマリオット・ホテル奈良",
+   "nameEn": "JW Marriott Hotel Nara",
+   "pref": "nara",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 94,
+   "name": "紫翠 ラグジュアリーコレクションホテル 奈良",
+   "nameEn": "Shisui, a Luxury Collection Hotel, Nara",
+   "pref": "nara",
+   "soon": false
+  },
+  {
+   "id": 95,
+   "name": "フェアフィールド・バイ・マリオット奈良天理山の辺の道",
+   "nameEn": "Fairfield by Marriott Nara Tenri Yamanobenomichi",
+   "pref": "nara",
+   "soon": false
+  },
+  {
+   "id": 96,
+   "name": "神戸ベイシェラトン ホテル＆タワーズ",
+   "nameEn": "Kobe Bay Sheraton Hotel & Towers",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 97,
+   "name": "神戸マリオットホテル",
+   "nameEn": "Kobe Marriott Hotel",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 98,
+   "name": "コートヤード・バイ・マリオット神戸",
+   "nameEn": "Courtyard by Marriott Kobe",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 99,
+   "name": "フォーポイント・フレックス・バイ・シェラトン神戸三宮",
+   "nameEn": "Four Points Flex by Sheraton Kobe Sannomiya",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 100,
+   "name": "フェアフィールド・バイ・マリオット兵庫神鍋高原",
+   "nameEn": "Fairfield by Marriott Hyogo Kannabe Highland",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 101,
+   "name": "フェアフィールド・バイ・マリオット兵庫淡路島福良",
+   "nameEn": "Fairfield by Marriott Hyogo Awajishima Fukura",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 102,
+   "name": "フェアフィールド・バイ・マリオット兵庫但馬やぶ",
+   "nameEn": "Fairfield by Marriott Hyogo Tajima Yabu",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 103,
+   "name": "フェアフィールド・バイ・マリオット兵庫淡路島東浦",
+   "nameEn": "Fairfield by Marriott Hyogo Awajishima Higashiura",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 104,
+   "name": "琵琶湖マリオットホテル",
+   "nameEn": "Lake Biwa Marriott Hotel",
+   "pref": "shiga",
+   "soon": false
+  },
+  {
+   "id": 105,
+   "name": "講 大津百町",
+   "nameEn": "Kou Otsu Hyakucho, a Member of Design Hotels",
+   "pref": "shiga",
+   "soon": false
+  },
+  {
+   "id": 106,
+   "name": "南紀白浜マリオットホテル",
+   "nameEn": "Nanki Shirahama Marriott Hotel",
+   "pref": "wakayama",
+   "soon": false
+  },
+  {
+   "id": 107,
+   "name": "フェアフィールド・バイ・マリオット和歌山熊野古道すさみ",
+   "nameEn": "Fairfield by Marriott Wakayama Kumano Kodo Susami",
+   "pref": "wakayama",
+   "soon": false
+  },
+  {
+   "id": 108,
+   "name": "フェアフィールド・バイ・マリオット和歌山串本",
+   "nameEn": "Fairfield by Marriott Wakayama Kushimoto",
+   "pref": "wakayama",
+   "soon": false
+  },
+  {
+   "id": 109,
+   "name": "シェラトングランドホテル広島",
+   "nameEn": "Sheraton Grand Hiroshima Hotel",
+   "pref": "hiroshima",
+   "soon": false
+  },
+  {
+   "id": 110,
+   "name": "フェアフィールド・バイ・マリオット広島世羅",
+   "nameEn": "Fairfield by Marriott Hiroshima Sera",
+   "pref": "hiroshima",
+   "soon": false
+  },
+  {
+   "id": 111,
+   "name": "フェアフィールド・バイ・マリオット岡山蒜山高原",
+   "nameEn": "Fairfield by Marriott Okayama Hiruzen Highland",
+   "pref": "okayama",
+   "soon": false
+  },
+  {
+   "id": 112,
+   "name": "フェアフィールド・バイ・マリオット岡山津山",
+   "nameEn": "Fairfield by Marriott Okayama Tsuyama",
+   "pref": "okayama",
+   "soon": false
+  },
+  {
+   "id": 113,
+   "name": "撚る屋",
+   "nameEn": "Yoruya, a Member of Design Hotels",
+   "pref": "okayama",
+   "soon": false
+  },
+  {
+   "id": 114,
+   "name": "SOIL Nagatoyumoto",
+   "nameEn": "SOIL Nagatoyumoto, a Member of Design Hotels",
+   "pref": "yamaguchi",
+   "soon": false
+  },
+  {
+   "id": 115,
+   "name": "ザ・リッツ・カールトン福岡",
+   "nameEn": "The Ritz-Carlton, Fukuoka",
+   "pref": "fukuoka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 116,
+   "name": "フォーポイント・フレックス・バイ・シェラトン福岡博多",
+   "nameEn": "Four Points Flex by Sheraton Fukuoka Hakata",
+   "pref": "fukuoka",
+   "soon": false
+  },
+  {
+   "id": 117,
+   "name": "フェアフィールド・バイ・マリオット福岡うきは",
+   "nameEn": "Fairfield by Marriott Fukuoka Ukiha",
+   "pref": "fukuoka",
+   "soon": false
+  },
+  {
+   "id": 118,
+   "name": "フェアフィールド・バイ・マリオット佐賀嬉野温泉",
+   "nameEn": "Fairfield by Marriott Saga Ureshino Onsen",
+   "pref": "saga",
+   "soon": false
+  },
+  {
+   "id": 119,
+   "name": "フェアフィールド・バイ・マリオット熊本阿蘇",
+   "nameEn": "Fairfield by Marriott Kumamoto Aso",
+   "pref": "kumamoto",
+   "soon": false
+  },
+  {
+   "id": 120,
+   "name": "シェラトン鹿児島",
+   "nameEn": "Sheraton Kagoshima",
+   "pref": "kagoshima",
+   "soon": false
+  },
+  {
+   "id": 121,
+   "name": "フェアフィールド・バイ・マリオット鹿児島たるみず桜島",
+   "nameEn": "Fairfield by Marriott Kagoshima Tarumizu Sakurajima",
+   "pref": "kagoshima",
+   "soon": false
+  },
+  {
+   "id": 122,
+   "name": "長崎マリオットホテル",
+   "nameEn": "Nagasaki Marriott Hotel",
+   "pref": "nagasaki",
+   "soon": false
+  },
+  {
+   "id": 123,
+   "name": "壱岐リトリート 海里村上 by 温故知新",
+   "nameEn": "Iki Retreat Kairi Murakami, a Member of Design Hotels",
+   "pref": "nagasaki",
+   "soon": false
+  },
+  {
+   "id": 124,
+   "name": "イラフ SUI ラグジュアリーコレクションホテル 沖縄宮古",
+   "nameEn": "Iraph Sui, a Luxury Collection Hotel, Okinawa Miyako",
+   "pref": "okinawa",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 125,
+   "name": "ザ・リッツ・カールトン沖縄",
+   "nameEn": "The Ritz-Carlton, Okinawa",
+   "pref": "okinawa",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 126,
+   "name": "コートヤード・バイ・マリオット沖縄リゾート",
+   "nameEn": "Courtyard by Marriott Okinawa Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 127,
+   "name": "シェラトン沖縄サンマリーナリゾート",
+   "nameEn": "Sheraton Okinawa Sunmarina Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 128,
+   "name": "ルネッサンス リゾート オキナワ",
+   "nameEn": "Renaissance Okinawa Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 129,
+   "name": "コートヤード・バイ・マリオット京都駅",
+   "nameEn": "Courtyard by Marriott Kyoto Station",
+   "pref": "kyoto",
+   "soon": true
+  },
+  {
+   "id": 130,
+   "name": "コートヤード・バイ・マリオット新横浜駅",
+   "nameEn": "Courtyard by Marriott Shin-Yokohama Station",
+   "pref": "kanagawa",
+   "soon": true
+  },
+  {
+   "id": 131,
+   "name": "HOTEL THE MITSUI HAKONE",
+   "nameEn": "Hotel The Mitsui Hakone",
+   "pref": "kanagawa",
+   "soon": true
+  },
+  {
+   "id": 132,
+   "name": "沖縄マリオット リザン リゾート＆スパ",
+   "nameEn": "Okinawa Marriott Rizzan Resort & Spa",
+   "pref": "okinawa",
+   "soon": true
+  },
+  {
+   "id": 133,
+   "name": "コートヤード・バイ・マリオット小倉",
+   "nameEn": "Courtyard by Marriott Kokura",
+   "pref": "fukuoka",
+   "soon": true
+  },
+  {
+   "id": 134,
+   "name": "コートヤード・バイ・マリオット北九州",
+   "nameEn": "Courtyard by Marriott Kitakyushu",
+   "pref": "fukuoka",
+   "soon": true
+  },
+  {
+   "id": 135,
+   "name": "シティエクスプレス by マリオット沖縄那覇",
+   "nameEn": "City Express by Marriott Okinawa Naha",
+   "pref": "okinawa",
+   "soon": true
+  },
+  {
+   "id": 136,
+   "name": "モクシー松本",
+   "nameEn": "Moxy Matsumoto",
+   "pref": "nagano",
+   "soon": true
+  },
+  {
+   "id": 137,
+   "name": "THE GROVE KARUIZAWA, Autograph Collection",
+   "nameEn": "The Grove Karuizawa, Autograph Collection",
+   "pref": "nagano",
+   "soon": true
+  },
+  {
+   "id": 138,
+   "name": "コートヤード・バイ・マリオット広島",
+   "nameEn": "Courtyard by Marriott Hiroshima",
+   "pref": "hiroshima",
+   "soon": true
+  },
+  {
+   "id": 139,
+   "name": "コートヤード・バイ・マリオット高知",
+   "nameEn": "Courtyard by Marriott Kochi",
+   "pref": "kochi",
+   "soon": true
+  },
+  {
+   "id": 140,
+   "name": "ラグジュアリーコレクションホテル鳥取砂丘（仮称）",
+   "nameEn": "Luxury Collection Hotel Tottori Sand Dunes (tentative)",
+   "pref": "tottori",
+   "soon": true
+  },
+  {
+   "id": 141,
+   "name": "（仮称）ラグジュアリーコレクション横浜みなとみらい（現 横浜ロイヤルパークホテル）",
+   "pref": "kanagawa",
+   "soon": true
+  },
+  {
+   "id": 142,
+   "name": "フェアフィールド・バイ・マリオット山梨甲州",
+   "nameEn": "Fairfield by Marriott Yamanashi Koshu",
+   "pref": "yamanashi",
+   "soon": true
+  },
+  {
+   "id": 143,
+   "name": "ウェスティン北海道富良野リゾート",
+   "nameEn": "The Westin Hokkaido Furano Resort",
+   "pref": "hokkaido",
+   "soon": true
+  },
+  {
+   "id": 144,
+   "name": "ヒルトンニセコビレッジ",
+   "nameEn": "Hilton Niseko Village",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 145,
+   "name": "ザ・グリーンリーフ・ニセコビレッジ",
+   "nameEn": "The Green Leaf Niseko Village, Tapestry Collection by Hilton",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 146,
+   "name": "ヒノデヒルズ・ニセコビレッジ",
+   "nameEn": "Hinode Hills Niseko Village, Curio Collection by Hilton",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 147,
+   "name": "コンラッド東京",
+   "nameEn": "Conrad Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 148,
+   "name": "ヒルトン東京",
+   "nameEn": "Hilton Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 149,
+   "name": "ヒルトン東京お台場",
+   "nameEn": "Hilton Tokyo Odaiba",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 150,
+   "name": "ダブルツリーbyヒルトン東京有明",
+   "nameEn": "DoubleTree by Hilton Tokyo Ariake",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 151,
+   "name": "ホテル雅叙園東京",
+   "nameEn": "Gajoen Tokyo, LXR Hotels & Resorts",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 152,
+   "name": "ヒルトン東京ベイ",
+   "nameEn": "Hilton Tokyo Bay",
+   "pref": "chiba",
+   "soon": false
+  },
+  {
+   "id": 153,
+   "name": "ヒルトン成田",
+   "nameEn": "Hilton Tokyo Narita Airport",
+   "pref": "chiba",
+   "soon": false
+  },
+  {
+   "id": 154,
+   "name": "ヒルトン横浜",
+   "nameEn": "Hilton Yokohama",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 155,
+   "name": "ヒルトン・ガーデン・イン横浜みなとみらい",
+   "nameEn": "Hilton Garden Inn Yokohama Minatomirai",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 156,
+   "name": "ヒルトン小田原リゾート＆スパ",
+   "nameEn": "Hilton Odawara Resort & Spa",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 157,
+   "name": "旧軽井沢KIKYO キュリオ・コレクションbyヒルトン",
+   "nameEn": "Kyukaruizawa KIKYO, Curio Collection by Hilton",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 158,
+   "name": "ヒルトン高山リゾート",
+   "nameEn": "Hilton Takayama Resort",
+   "pref": "gifu",
+   "soon": false
+  },
+  {
+   "id": 159,
+   "name": "ダブルツリーbyヒルトン富山",
+   "nameEn": "DoubleTree by Hilton Toyama",
+   "pref": "toyama",
+   "soon": false
+  },
+  {
+   "id": 160,
+   "name": "ヒルトン名古屋",
+   "nameEn": "Hilton Nagoya",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 161,
+   "name": "コンラッド名古屋",
+   "nameEn": "Conrad Nagoya",
+   "pref": "aichi",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 162,
+   "name": "ヒルトン京都",
+   "nameEn": "Hilton Kyoto",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 163,
+   "name": "ROKU KYOTO, LXR Hotels & Resorts",
+   "nameEn": "ROKU KYOTO, LXR Hotels & Resorts",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 164,
+   "name": "ダブルツリーbyヒルトン京都駅",
+   "nameEn": "DoubleTree by Hilton Kyoto Station",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 165,
+   "name": "ダブルツリーbyヒルトン京都東山",
+   "nameEn": "DoubleTree by Hilton Kyoto Higashiyama",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 166,
+   "name": "ヒルトン・ガーデン・イン京都四条烏丸",
+   "nameEn": "Hilton Garden Inn Kyoto Shijo Karasuma",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 167,
+   "name": "ウォルドーフ・アストリア大阪",
+   "nameEn": "Waldorf Astoria Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 168,
+   "name": "コンラッド大阪",
+   "nameEn": "Conrad Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 169,
+   "name": "ヒルトン大阪",
+   "nameEn": "Hilton Osaka",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 170,
+   "name": "キャノピーbyヒルトン大阪梅田",
+   "nameEn": "Canopy by Hilton Osaka Umeda",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 171,
+   "name": "ダブルツリーbyヒルトン大阪城",
+   "nameEn": "DoubleTree by Hilton Osaka Castle",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 172,
+   "name": "ヒルトン広島",
+   "nameEn": "Hilton Hiroshima",
+   "pref": "hiroshima",
+   "soon": false
+  },
+  {
+   "id": 173,
+   "name": "ヒルトン長崎",
+   "nameEn": "Hilton Nagasaki",
+   "pref": "nagasaki",
+   "soon": false
+  },
+  {
+   "id": 174,
+   "name": "ヒルトン福岡シーホーク",
+   "nameEn": "Hilton Fukuoka Sea Hawk",
+   "pref": "fukuoka",
+   "soon": false
+  },
+  {
+   "id": 175,
+   "name": "ヒルトン沖縄瀬底リゾート",
+   "nameEn": "Hilton Okinawa Sesoko Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 176,
+   "name": "ヒルトン沖縄北谷リゾート",
+   "nameEn": "Hilton Okinawa Chatan Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 177,
+   "name": "ダブルツリーbyヒルトン沖縄北谷リゾート",
+   "nameEn": "DoubleTree by Hilton Okinawa Chatan Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 178,
+   "name": "ダブルツリーbyヒルトン那覇",
+   "nameEn": "DoubleTree by Hilton Naha",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 179,
+   "name": "ダブルツリーbyヒルトン那覇首里城",
+   "nameEn": "DoubleTree by Hilton Naha Shuri Castle",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 180,
+   "name": "ヒルトン沖縄宮古島リゾート",
+   "nameEn": "Hilton Okinawa Miyako Island Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 181,
+   "name": "キャノピーbyヒルトン沖縄宮古島リゾート",
+   "nameEn": "Canopy by Hilton Okinawa Miyako Island Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 182,
+   "name": "YOTEL東京銀座 セレクト by ヒルトン",
+   "nameEn": "YOTEL Tokyo Ginza, Select by Hilton",
+   "pref": "tokyo",
+   "soon": true
+  },
+  {
+   "id": 183,
+   "name": "ウォルドーフ・アストリア東京日本橋",
+   "nameEn": "Waldorf Astoria Tokyo Nihonbashi",
+   "pref": "tokyo",
+   "soon": true
+  },
+  {
+   "id": 184,
+   "name": "コンラッド横浜",
+   "nameEn": "Conrad Yokohama",
+   "pref": "kanagawa",
+   "soon": true
+  },
+  {
+   "id": 185,
+   "name": "ヒルトン・ガーデン・イン長崎中華街",
+   "nameEn": "Hilton Garden Inn Nagasaki Chinatown",
+   "pref": "nagasaki",
+   "soon": true
+  },
+  {
+   "id": 186,
+   "name": "（仮称）箱根強羅 LXR",
+   "nameEn": "LXR Hakone Gora (tentative)",
+   "pref": "kanagawa",
+   "soon": true
+  },
+  {
+   "id": 187,
+   "name": "キャノピーbyヒルトン東京赤坂",
+   "nameEn": "Canopy by Hilton Tokyo Akasaka",
+   "pref": "tokyo",
+   "soon": true
+  },
+  {
+   "id": 188,
+   "name": "Umiuta Hiroshima, LXR Hotels & Resorts",
+   "nameEn": "Umiuta Hiroshima, LXR Hotels & Resorts",
+   "pref": "hiroshima",
+   "soon": true
+  },
+  {
+   "id": 189,
+   "name": "（仮称）京都ブライトンホテル キュリオ・コレクション by ヒルトン",
+   "pref": "kyoto",
+   "soon": true
+  },
+  {
+   "id": 190,
+   "name": "モットー by ヒルトン京都四条烏丸",
+   "nameEn": "Motto by Hilton Kyoto Shijo Karasuma",
+   "pref": "kyoto",
+   "soon": true
+  },
+  {
+   "id": 191,
+   "name": "コンラッド神戸",
+   "nameEn": "Conrad Kobe",
+   "pref": "hyogo",
+   "soon": true
+  },
+  {
+   "id": 192,
+   "name": "ヒルトン札幌（札幌パークホテル建て替え）",
+   "nameEn": "Hilton Sapporo",
+   "pref": "hokkaido",
+   "soon": true
+  },
+  {
+   "id": 193,
+   "name": "シックスセンシズ 京都",
+   "nameEn": "Six Senses Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 194,
+   "name": "インターコンチネンタル札幌",
+   "nameEn": "InterContinental Sapporo",
+   "pref": "hokkaido",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 195,
+   "name": "ANAインターコンチネンタル安比高原リゾート",
+   "nameEn": "ANA InterContinental Appi Kogen Resort",
+   "pref": "iwate",
+   "soon": false
+  },
+  {
+   "id": 196,
+   "name": "ANAインターコンチネンタルホテル東京",
+   "nameEn": "ANA InterContinental Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 197,
+   "name": "ストリングスホテル東京インターコンチネンタル",
+   "nameEn": "The Strings by InterContinental Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 198,
+   "name": "ホテル インターコンチネンタル 東京ベイ",
+   "nameEn": "InterContinental Tokyo Bay",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 199,
+   "name": "ヨコハマ グランド インターコンチネンタル ホテル",
+   "nameEn": "InterContinental Yokohama Grand",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 200,
+   "name": "インターコンチネンタル横浜Pier 8",
+   "nameEn": "InterContinental Yokohama Pier 8",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 201,
+   "name": "インターコンチネンタルホテル大阪",
+   "nameEn": "InterContinental Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 202,
+   "name": "ANAインターコンチネンタル別府リゾート＆スパ",
+   "nameEn": "ANA InterContinental Beppu Resort & Spa",
+   "pref": "oita",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 203,
+   "name": "ANAインターコンチネンタル万座ビーチリゾート",
+   "nameEn": "ANA InterContinental Manza Beach Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 204,
+   "name": "ANAインターコンチネンタル石垣リゾート",
+   "nameEn": "ANA InterContinental Ishigaki Resort",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 205,
+   "name": "キンプトン新宿東京",
+   "nameEn": "Kimpton Shinjuku Tokyo",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 206,
+   "name": "ザ・ウィンザーホテル洞爺 リゾート＆スパ",
+   "nameEn": "The Windsor Hotel Toya Resort & Spa, Vignette Collection",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 207,
+   "name": "リーガロイヤルホテル（大阪）",
+   "nameEn": "RIHGA Royal Hotel Osaka, Vignette Collection",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 208,
+   "name": "ホテルインディゴ箱根強羅",
+   "nameEn": "Hotel Indigo Hakone Gora",
+   "pref": "kanagawa",
+   "soon": false
+  },
+  {
+   "id": 209,
+   "name": "ホテルインディゴ東京渋谷",
+   "nameEn": "Hotel Indigo Tokyo Shibuya",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 210,
+   "name": "ホテルインディゴ軽井沢",
+   "nameEn": "Hotel Indigo Karuizawa",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 211,
+   "name": "ホテルインディゴ犬山有楽苑",
+   "nameEn": "Hotel Indigo Inuyama Urakuen Garden",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 212,
+   "name": "ホテルインディゴ長崎グラバーストリート",
+   "nameEn": "Hotel Indigo Nagasaki Glover Street",
+   "pref": "nagasaki",
+   "soon": false
+  },
+  {
+   "id": 213,
+   "name": "voco大阪セントラル",
+   "nameEn": "voco Osaka Central",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 214,
+   "name": "ANAクラウンプラザホテル千歳",
+   "nameEn": "ANA Crowne Plaza Chitose",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 215,
+   "name": "ANAクラウンプラザホテル釧路",
+   "nameEn": "ANA Crowne Plaza Kushiro",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 216,
+   "name": "ANAクラウンプラザホテル札幌",
+   "nameEn": "ANA Crowne Plaza Sapporo",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 217,
+   "name": "ANAクラウンプラザホテル秋田",
+   "nameEn": "ANA Crowne Plaza Akita",
+   "pref": "akita",
+   "soon": false
+  },
+  {
+   "id": 218,
+   "name": "ANAクラウンプラザリゾート安比高原",
+   "nameEn": "ANA Crowne Plaza Resort Appi Kogen",
+   "pref": "iwate",
+   "soon": false
+  },
+  {
+   "id": 219,
+   "name": "ANAクラウンプラザホテル成田",
+   "nameEn": "ANA Crowne Plaza Narita",
+   "pref": "chiba",
+   "soon": false
+  },
+  {
+   "id": 220,
+   "name": "ANAクラウンプラザホテル新潟",
+   "nameEn": "ANA Crowne Plaza Niigata",
+   "pref": "niigata",
+   "soon": false
+  },
+  {
+   "id": 221,
+   "name": "ANAクラウンプラザホテル富山",
+   "nameEn": "ANA Crowne Plaza Toyama",
+   "pref": "toyama",
+   "soon": false
+  },
+  {
+   "id": 222,
+   "name": "ANAクラウンプラザホテル金沢",
+   "nameEn": "ANA Crowne Plaza Kanazawa",
+   "pref": "ishikawa",
+   "soon": false
+  },
+  {
+   "id": 223,
+   "name": "ANAクラウンプラザホテルグランコート名古屋",
+   "nameEn": "ANA Crowne Plaza Hotel Grand Court Nagoya",
+   "pref": "aichi",
+   "soon": false
+  },
+  {
+   "id": 224,
+   "name": "ANAクラウンプラザホテル京都",
+   "nameEn": "ANA Crowne Plaza Kyoto",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 225,
+   "name": "ANAクラウンプラザホテル神戸",
+   "nameEn": "ANA Crowne Plaza Kobe",
+   "pref": "hyogo",
+   "soon": false
+  },
+  {
+   "id": 226,
+   "name": "ANAクラウンプラザホテル岡山",
+   "nameEn": "ANA Crowne Plaza Okayama",
+   "pref": "okayama",
+   "soon": false
+  },
+  {
+   "id": 227,
+   "name": "ANAクラウンプラザホテル広島",
+   "nameEn": "ANA Crowne Plaza Hiroshima",
+   "pref": "hiroshima",
+   "soon": false
+  },
+  {
+   "id": 228,
+   "name": "ANAクラウンプラザホテル米子",
+   "nameEn": "ANA Crowne Plaza Yonago",
+   "pref": "tottori",
+   "soon": false
+  },
+  {
+   "id": 229,
+   "name": "ANAクラウンプラザホテル松山",
+   "nameEn": "ANA Crowne Plaza Matsuyama",
+   "pref": "ehime",
+   "soon": false
+  },
+  {
+   "id": 230,
+   "name": "ANAクラウンプラザホテル福岡",
+   "nameEn": "ANA Crowne Plaza Fukuoka",
+   "pref": "fukuoka",
+   "soon": false
+  },
+  {
+   "id": 231,
+   "name": "ANAクラウンプラザホテル長崎グラバーヒル",
+   "nameEn": "ANA Crowne Plaza Nagasaki Gloverhill",
+   "pref": "nagasaki",
+   "soon": false
+  },
+  {
+   "id": 232,
+   "name": "ANAクラウンプラザホテル熊本ニュースカイ",
+   "nameEn": "ANA Crowne Plaza Kumamoto New Sky",
+   "pref": "kumamoto",
+   "soon": false
+  },
+  {
+   "id": 233,
+   "name": "ANAクラウンプラザリゾート沖縄うるまヒルズ",
+   "nameEn": "ANA Crowne Plaza Resort Okinawa Uruma Hills",
+   "pref": "okinawa",
+   "soon": false
+  },
+  {
+   "id": 234,
+   "name": "ホリデイ・イン＆スイーツ札幌大通公園",
+   "nameEn": "Holiday Inn & Suites Sapporo Odori Park",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 235,
+   "name": "ANAホリデイ・イン札幌すすきの",
+   "nameEn": "ANA Holiday Inn Sapporo Susukino",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 236,
+   "name": "ANAホリデイ・イン仙台",
+   "nameEn": "ANA Holiday Inn Sendai",
+   "pref": "miyagi",
+   "soon": false
+  },
+  {
+   "id": 237,
+   "name": "ANAホリデイ・イン岩手北上",
+   "nameEn": "ANA Holiday Inn Iwate Kitakami",
+   "pref": "iwate",
+   "soon": false
+  },
+  {
+   "id": 238,
+   "name": "ANAホリデイ・イン東京ベイ",
+   "nameEn": "ANA Holiday Inn Tokyo Bay",
+   "pref": "tokyo",
+   "soon": false
+  },
+  {
+   "id": 239,
+   "name": "ANAホリデイ・イン金沢スカイ",
+   "nameEn": "ANA Holiday Inn Kanazawa Sky",
+   "pref": "ishikawa",
+   "soon": false
+  },
+  {
+   "id": 240,
+   "name": "ANAホリデイ・イン京都五条",
+   "nameEn": "ANA Holiday Inn Kyoto Gojo",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 241,
+   "name": "ホリデイ・イン大阪難波",
+   "nameEn": "Holiday Inn Osaka Namba",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 242,
+   "name": "ホリデイ・イン＆スイーツ新大阪",
+   "nameEn": "Holiday Inn & Suites Shin Osaka",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 243,
+   "name": "ANAホリデイ・イン鳥栖",
+   "nameEn": "ANA Holiday Inn Tosu",
+   "pref": "saga",
+   "soon": false
+  },
+  {
+   "id": 244,
+   "name": "ANAホリデイ・イン神戸三田",
+   "nameEn": "ANA Holiday Inn Kobe Sanda",
+   "pref": "hyogo",
+   "soon": true
+  },
+  {
+   "id": 245,
+   "name": "ANAホリデイ・イン リゾート安比高原",
+   "nameEn": "ANA Holiday Inn Resort Appi Kogen",
+   "pref": "iwate",
+   "soon": false
+  },
+  {
+   "id": 246,
+   "name": "ANAホリデイ・イン リゾート信濃大町くろよん",
+   "nameEn": "ANA Holiday Inn Resort Shinano-Omachi Kuroyon",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 247,
+   "name": "ANAホリデイ・イン リゾート軽井沢",
+   "nameEn": "ANA Holiday Inn Resort Karuizawa",
+   "pref": "nagano",
+   "soon": false
+  },
+  {
+   "id": 248,
+   "name": "ANAホリデイ・イン リゾート宮崎",
+   "nameEn": "ANA Holiday Inn Resort Miyazaki",
+   "pref": "miyazaki",
+   "soon": false
+  },
+  {
+   "id": 249,
+   "name": "ホリデイ・イン エクスプレス大阪シティセンター御堂筋",
+   "nameEn": "Holiday Inn Express Osaka City Centre - Midosuji",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 250,
+   "name": "ホリデイ・イン エクスプレス札幌すすきの",
+   "nameEn": "Holiday Inn Express Sapporo Susukino",
+   "pref": "hokkaido",
+   "soon": false
+  },
+  {
+   "id": 251,
+   "name": "ガーナーホテル大阪本町北船場",
+   "nameEn": "Garner Hotel Osaka Honmachi Kitasemba",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 252,
+   "name": "ガーナーホテル大阪本町駅",
+   "nameEn": "Garner Hotel Osaka Honmachi Station",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 253,
+   "name": "ガーナーホテル大阪本町御堂筋",
+   "nameEn": "Garner Hotel Osaka Honmachi Midosuji",
+   "pref": "osaka",
+   "soon": false
+  },
+  {
+   "id": 254,
+   "name": "ガーナーホテル京都四条烏丸",
+   "nameEn": "Garner Hotel Kyoto Shijo Karasuma",
+   "pref": "kyoto",
+   "soon": false
+  },
+  {
+   "id": 255,
+   "name": "京都の新規ガーナーホテル群（12軒）",
+   "nameEn": "Garner Hotels Kyoto portfolio",
+   "pref": "kyoto",
+   "soon": true
+  },
+  {
+   "id": 256,
+   "name": "リージェント京都",
+   "nameEn": "Regent Kyoto",
+   "pref": "kyoto",
+   "soon": true
+  },
+  {
+   "id": 257,
+   "name": "1 Hotel Tokyo",
+   "nameEn": "1 Hotel Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 258,
+   "name": "ベルスター東京 パンパシフィックホテル",
+   "nameEn": "BELLUSTAR TOKYO, A Pan Pacific Hotel",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 259,
+   "name": "オークラ東京",
+   "nameEn": "The Okura Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 260,
+   "name": "アマン東京",
+   "nameEn": "Aman Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 261,
+   "name": "アンダーズ東京",
+   "nameEn": "Andaz Tokyo Toranomon Hills",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 262,
+   "name": "グランド ハイアット 東京",
+   "nameEn": "Grand Hyatt Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 263,
+   "name": "ザ・ペニンシュラ東京",
+   "nameEn": "The Peninsula Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 264,
+   "name": "シャングリ・ラ ホテル 東京",
+   "nameEn": "Shangri-La Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 265,
+   "name": "ジャヌ東京",
+   "nameEn": "Janu Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 266,
+   "name": "パレスホテル東京",
+   "nameEn": "Palace Hotel Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 267,
+   "name": "パーク ハイアット 東京",
+   "nameEn": "Park Hyatt Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 268,
+   "name": "フェアモント東京",
+   "nameEn": "Fairmont Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 269,
+   "name": "フォーシーズンズホテル丸の内 東京",
+   "nameEn": "Four Seasons Hotel Tokyo at Marunouchi",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 270,
+   "name": "フォーシーズンズホテル東京大手町",
+   "nameEn": "Four Seasons Hotel Tokyo at Otemachi",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 272,
+   "name": "ホテルニューオータニ 東京 エグゼクティブハウス 禅",
+   "nameEn": "Hotel New Otani Tokyo Executive House Zen",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 273,
+   "name": "マンダリン オリエンタル 東京",
+   "nameEn": "Mandarin Oriental Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 274,
+   "name": "アマン京都",
+   "nameEn": "Aman Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 275,
+   "name": "ザ・ホテル青龍 京都清水",
+   "nameEn": "The Hotel Seiryu Kyoto Kiyomizu",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 276,
+   "name": "デュシタニ京都",
+   "nameEn": "Dusit Thani Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 277,
+   "name": "バンヤンツリー東山京都",
+   "nameEn": "Banyan Tree Higashiyama Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 278,
+   "name": "パーク ハイアット 京都",
+   "nameEn": "Park Hyatt Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 279,
+   "name": "フォションホテル京都",
+   "nameEn": "Fauchon L'Hotel Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 280,
+   "name": "フォーシーズンズホテル京都",
+   "nameEn": "Four Seasons Hotel Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 281,
+   "name": "帝国ホテル 京都",
+   "nameEn": "Imperial Hotel Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 282,
+   "name": "パティーナ大阪",
+   "nameEn": "Patina Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 283,
+   "name": "フォーシーズンズホテル大阪",
+   "nameEn": "Four Seasons Hotel Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 284,
+   "name": "パーク ハイアット ニセコ HANAZONO",
+   "nameEn": "Park Hyatt Niseko Hanazono",
+   "pref": "hokkaido",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 285,
+   "name": "ザ・カハラ・ホテル＆リゾート 横浜",
+   "nameEn": "The Kahala Hotel & Resort Yokohama",
+   "pref": "kanagawa",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 286,
+   "name": "エスパシオ 箱根迎賓館 麟鳳亀龍",
+   "nameEn": "ESPACIO The Hakone Geihinkan Rin Poh Ki Ryu",
+   "pref": "kanagawa",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 287,
+   "name": "富士スピードウェイホテル",
+   "nameEn": "Fuji Speedway Hotel",
+   "pref": "shizuoka",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 288,
+   "name": "アマネム",
+   "nameEn": "Amanemu",
+   "pref": "mie",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 289,
+   "name": "エスパシオ ナゴヤ キャッスル",
+   "nameEn": "ESPACIO Nagoya Castle",
+   "pref": "aichi",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 290,
+   "name": "Azumi Setoda",
+   "nameEn": "Azumi Setoda",
+   "pref": "hiroshima",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 291,
+   "name": "ハレクラニ沖縄",
+   "nameEn": "Halekulani Okinawa",
+   "pref": "okinawa",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 292,
+   "name": "ローズウッド宮古島",
+   "nameEn": "Rosewood Miyakojima",
+   "pref": "okinawa",
+   "soon": false,
+   "fhr": true
+  },
+  {
+   "id": 293,
+   "name": "ホテル虎ノ門ヒルズ",
+   "nameEn": "Hotel Toranomon Hills",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 294,
+   "name": "ハイアット リージェンシー 東京",
+   "nameEn": "Hyatt Regency Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 295,
+   "name": "ハイアット リージェンシー 東京ベイ",
+   "nameEn": "Hyatt Regency Tokyo Bay",
+   "pref": "chiba",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 296,
+   "name": "ハイアット セントリック 銀座 東京",
+   "nameEn": "Hyatt Centric Ginza Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 297,
+   "name": "ハイアット ハウス 東京渋谷",
+   "nameEn": "Hyatt House Tokyo Shibuya",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 298,
+   "name": "キャプション by Hyatt 兜町 東京",
+   "nameEn": "Caption by Hyatt Kabutocho Tokyo",
+   "pref": "tokyo",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 299,
+   "name": "ハイアット リージェンシー 箱根 リゾート＆スパ",
+   "nameEn": "Hyatt Regency Hakone Resort and Spa",
+   "pref": "kanagawa",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 300,
+   "name": "ハイアット リージェンシー 横浜",
+   "nameEn": "Hyatt Regency Yokohama",
+   "pref": "kanagawa",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 301,
+   "name": "ハイアット セントリック 金沢",
+   "nameEn": "Hyatt Centric Kanazawa",
+   "pref": "ishikawa",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 302,
+   "name": "ハイアット ハウス 金沢",
+   "nameEn": "Hyatt House Kanazawa",
+   "pref": "ishikawa",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 303,
+   "name": "ハイアット リージェンシー 京都",
+   "nameEn": "Hyatt Regency Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 304,
+   "name": "ハイアット プレイス 京都",
+   "nameEn": "Hyatt Place Kyoto",
+   "pref": "kyoto",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 305,
+   "name": "キャプション by Hyatt なんば 大阪",
+   "nameEn": "Caption by Hyatt Namba Osaka",
+   "pref": "osaka",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 306,
+   "name": "ハイアット リージェンシー 那覇 沖縄",
+   "nameEn": "Hyatt Regency Naha Okinawa",
+   "pref": "okinawa",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 307,
+   "name": "ハイアット リージェンシー 瀬良垣アイランド 沖縄",
+   "nameEn": "Hyatt Regency Seragaki Island Okinawa",
+   "pref": "okinawa",
+   "soon": false,
+   "fhr": false
+  },
+  {
+   "id": 308,
+   "name": "グランド ハイアット 福岡",
+   "nameEn": "Grand Hyatt Fukuoka",
+   "pref": "fukuoka",
+   "soon": false,
+   "fhr": false
+  }
+ ]
+}
