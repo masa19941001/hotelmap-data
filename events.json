@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-16T10:12:24+09:00",
+ "updated": "2026-11-17T12:55:40+09:00",
  "source": "PR TIMES（タイトル・期間・リンクのみ）",
  "events": {
   "2": [
@@ -12,7 +12,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002815.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【コートヤード・バイ・マリオット札幌】高さ5mのクリスマスツリーが彩る心温まるホリデーシーズン「Courtyard S…",
@@ -22,7 +22,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002934.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "10": [
@@ -34,7 +34,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001911.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "12": [
@@ -46,19 +46,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002953.000011305.html",
-    "fetched": "2026-11-16"
-   }
-  ],
-  "14": [
-   {
-    "title": "【ウェスティンホテル東京】旬の甘酸っぱい苺を贅沢に織り交ぜた苺スイーツや上質なセイボリーを味わう 「ストロベリー ウィ…",
-    "shortTitle": "旬の甘酸っぱい苺を贅沢に織り交ぜた苺スイーツや上質なセイボリーを味わう 「ストロベリー…",
-    "start": "2027-01-04",
-    "end": "2027-04-30",
-    "kind": "afternoonTea",
-    "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000002951.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "15": [
@@ -70,7 +58,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002581.000030117.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "メズム東京、オートグラフ コレクション 竹芝のウォーターフロントから新たな年への航海が始まる「Holiday Voya…",
@@ -80,7 +68,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002639.000030117.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "17": [
@@ -92,17 +80,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002372.000023303.html",
-    "fetched": "2026-11-16"
-   },
-   {
-    "title": "【シェラトン都ホテル東京】白金台の隠れ家で過ごす、美食と寛ぎのクリスマス 特別なディナーや宿泊プランで思い出に残るひと…",
-    "shortTitle": "白金台の隠れ家で過ごす、美食と寛ぎのクリスマス 特別なディナーや宿泊プランで思い出に残…",
-    "start": "2026-12-19",
-    "end": "2026-12-25",
-    "kind": "stay",
-    "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000002395.000023303.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "18": [
@@ -114,7 +92,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002929.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【JWマリオット・ホテル東京】MoN Takanawa「Feel the Sound」展とのコラボレーションを開催 音…",
@@ -124,7 +102,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002947.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "24": [
@@ -136,7 +114,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001869.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "28": [
@@ -148,7 +126,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002930.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "31": [
@@ -160,7 +138,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000290.000015667.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "シェラトン・グランデ・トーキョーベイ・ホテル 華やかなホリデーシーズンを彩る「クリスマスブッフェ」を開催",
@@ -170,7 +148,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000291.000015667.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "32": [
@@ -182,7 +160,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002958.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "37": [
@@ -194,7 +172,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002937.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ウェスティンホテル横浜】待望の再登場。いちごとリンツチョコレートが彩る「恋するいちごアフタヌーンティー with リ…",
@@ -204,10 +182,20 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002948.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "40": [
+   {
+    "title": "【軽井沢マリオットホテル】温める、味わう、そしてあえて何もしない。冬の軽井沢で過ごすリトリート旅宿泊プラン「Karui…",
+    "shortTitle": "温める、味わう、そしてあえて何もしない。冬の軽井沢で過ごすリトリート旅宿泊プラン「Ka…",
+    "start": "2026-12-01",
+    "end": "2027-02-28",
+    "kind": "stay",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000001919.000006521.html",
+    "fetched": "2026-11-17"
+   },
    {
     "title": "【軽井沢マリオットホテル】冬の軽井沢で、信州の郷土料理「鯉こく」のフレンチ仕立てなど信州の食文化を味わう ディナーコー…",
     "shortTitle": "冬の軽井沢で、信州の郷土料理「鯉こく」のフレンチ仕立てなど信州の食文化を味わう ディナ…",
@@ -216,7 +204,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001913.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "41": [
@@ -228,7 +216,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001825.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "42": [
@@ -240,7 +228,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000022.000137094.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "43": [
@@ -252,7 +240,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001843.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【富士マリオットホテル山中湖】 溶岩プレートで香ばしく焼き上げた富士ヶ嶺ポークと冬野菜を味わう一杯 「富士ヶ嶺ポークの…",
@@ -262,7 +250,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001915.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "44": [
@@ -274,7 +262,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002870.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【コートヤード・バイ・マリオット福井】苺やピスタチオが彩る、心ときめくクリスマスアフタヌーンティーが登場",
@@ -284,7 +272,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002914.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "51": [
@@ -296,7 +284,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001838.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "59": [
@@ -308,7 +296,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002933.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ザ・リッツ・カールトン大阪】クリスマスから新年までを優雅に愉しむ年末年始の特別宿泊プランが登場",
@@ -318,7 +306,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002954.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "60": [
@@ -330,7 +318,17 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002920.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
+   },
+   {
+    "title": "【セント レジス ホテル 大阪】12種のブレッドと6種のスイーツ、NESPRESSOの個性豊かな一杯が誘う祝福の季節の…",
+    "shortTitle": "12種のブレッドと6種のスイーツ、NESPRESSOの個性豊かな一杯が誘う祝福の季節の…",
+    "start": "2026-11-18",
+    "end": "2027-01-31",
+    "kind": "restaurant",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002966.000011305.html",
+    "fetched": "2026-11-17"
    },
    {
     "title": "【セント レジス ホテル 大阪】時を超えて受け継がれる、祝福の美学。心華やぐフェスティブシーズン 2026",
@@ -340,7 +338,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002927.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "62": [
@@ -352,7 +350,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002398.000023303.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "63": [
@@ -364,7 +362,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000071.000010086.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "64": [
@@ -376,7 +374,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002420.000023303.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "79": [
@@ -388,7 +386,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001858.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【翠嵐 ラグジュアリーコレクションホテル 京都】アンティーク伊万里に秋の実りを盛り込んだ「八翠の焼きいもプリン」を期間…",
@@ -398,7 +396,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001904.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "81": [
@@ -410,7 +408,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002949.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "82": [
@@ -422,7 +420,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002400.000023303.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ウェスティン都ホテル京都】チョコレート＆ベリーのパフェ。ヴァローナ社のクーベルチュールを使用した冬季限定パフェが12…",
@@ -432,7 +430,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002417.000023303.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "93": [
@@ -444,7 +442,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002866.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【JWマリオット・ホテル奈良】姉妹都市サマルカンドを象徴する「ブルー」が彩る「クリスマスツリー点灯式2026」11月1…",
@@ -454,7 +452,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002904.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "97": [
@@ -466,7 +464,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000829.000010391.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "神戸マリオットホテル内「restaurant GRILL TABLE」ほか関西2店舗にて 冬を彩る【いちご×チョコレー…",
@@ -476,7 +474,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000862.000010391.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "神戸マリオットホテル17階「restaurant GRILL TABLE」 ホテル最上階のダイニングで冬の味覚を味わう…",
@@ -486,19 +484,19 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000848.000010391.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "104": [
    {
-    "title": "琵琶湖マリオットホテル聖夜を彩る真紅のいちごが宝石のようにきらめく2種の限定クリスマスケーキを発売",
-    "shortTitle": "聖夜を彩る真紅のいちごが宝石のようにきらめく2種の限定クリスマスケーキ",
-    "start": "2026-10-19",
-    "end": "2026-12-26",
-    "kind": "restaurant",
+    "title": "【琵琶湖マリオットホテル】赤と白のいちごが織りなす輝きのパフェコレクションが冬季限定で登場「Strawberry Pa…",
+    "shortTitle": "赤と白のいちごが織りなす輝きのパフェコレクションが冬季限定で登場「Strawberry…",
+    "start": "2026-12-01",
+    "end": "2027-03-31",
+    "kind": "event",
     "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000001890.000006521.html",
-    "fetched": "2026-11-16"
+    "url": "https://prtimes.jp/main/html/rd/p/000001920.000006521.html",
+    "fetched": "2026-11-17"
    }
   ],
   "106": [
@@ -510,7 +508,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001912.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【南紀白浜マリオットホテル】和歌山が育んだブランドいちご「まりひめ」とショコラが織りなす「MARIHIME Straw…",
@@ -520,7 +518,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001906.000006521.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "109": [
@@ -532,7 +530,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002918.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【シェラトングランドホテル広島】秋の味覚と全国各地のご当地グルメを堪能 11月限定「ジャパンフェア」を開催",
@@ -542,7 +540,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002926.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "120": [
@@ -554,7 +552,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000045.000119016.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【シェラトン鹿児島】煌めく季節を、鹿児島の絶景とともに『クリスマスアフタヌーンティー』が登場！",
@@ -564,7 +562,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000046.000119016.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "122": [
@@ -576,7 +574,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000001394.000037933.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "125": [
@@ -588,7 +586,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002921.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "126": [
@@ -600,20 +598,20 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002935.000011305.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
+   },
+   {
+    "title": "【コートヤード・バイ・マリオット沖縄リゾート】初めての年越しを彩るニューイヤーイベントを開催",
+    "shortTitle": "初めての年越しを彩るニューイヤーイベント",
+    "start": "2026-12-31",
+    "end": "2027-01-02",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000002963.000011305.html",
+    "fetched": "2026-11-17"
    }
   ],
   "127": [
-   {
-    "title": "【シェラトン沖縄サンマリーナリゾート】～薩摩揚げやチキン南蛮など九州の“うまか”を集めたご当地グルメを週末限定で～ラン…",
-    "shortTitle": "～薩摩揚げやチキン南蛮など九州の“うまか”を集めたご当地グルメを週末限定で～ランチビュ…",
-    "start": "2026-10-03",
-    "end": "2026-12-27",
-    "kind": "restaurant",
-    "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000000025.000082872.html",
-    "fetched": "2026-11-16"
-   },
    {
     "title": "【シェラトン沖縄サンマリーナリゾート】～目の前で仕上げ、切り分ける“ライブ感”を大切な人とシェア～限定ディナーコース「…",
     "shortTitle": "～目の前で仕上げ、切り分ける“ライブ感”を大切な人とシェア～限定ディナーコース「Gat…",
@@ -622,7 +620,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000027.000082872.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【シェラトン沖縄サンマリーナリゾート】～国産牛ステーキと沖縄の恵みをライブキッチンの出来立てで味わう～一年の締めくくり…",
@@ -632,7 +630,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000028.000082872.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【シェラトン沖縄サンマリーナリゾート】～琉球舞踊・エイサー・獅子舞とカウントダウン花火で迎える新年年末～年始特別イベン…",
@@ -642,19 +640,19 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000026.000082872.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "147": [
    {
-    "title": "コンラッド東京、12月1日（火）より「Her lip to Lounge 2026」を開催",
-    "shortTitle": "「Her lip to Lounge 2026」",
-    "start": "2026-12-01",
-    "end": "2026-12-31",
-    "kind": "event",
+    "title": "コンラッド東京、1月1日（金）より「ストロベリー・ベルベット・アフタヌーンティー」を開催",
+    "shortTitle": "「ストロベリー・ベルベット・アフタヌーンティー」",
+    "start": "2027-01-01",
+    "end": "2027-02-28",
+    "kind": "afternoonTea",
     "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000000251.000031000.html",
-    "fetched": "2026-11-16"
+    "url": "https://prtimes.jp/main/html/rd/p/000000253.000031000.html",
+    "fetched": "2026-11-17"
    }
   ],
   "153": [
@@ -666,7 +664,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002178.000016207.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "154": [
@@ -678,19 +676,19 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000068.000115530.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "160": [
    {
-    "title": "ヒルトン名古屋 日本料理「源氏」東海三県の恵みを味わうシグネチャー会席『源氏物語』第三章「浮舟」的矢かき会席11 月3…",
-    "shortTitle": "日本料理「源氏」東海三県の恵みを味わうシグネチャー会席『源氏物語』第三章「浮舟」的矢か…",
-    "start": "2026-11-30",
-    "end": "2027-02-14",
-    "kind": "restaurant",
+    "title": "ヒルトン名古屋「クリスマス・トレイン」運行開始 地域企業・団体84社とともに28年続くチャリティー活動 今年は児童養護…",
+    "shortTitle": "「クリスマス・トレイン」運行開始 地域企業・団体84社とともに28年続くチャリティー活…",
+    "start": "2026-11-14",
+    "end": "2027-01-11",
+    "kind": "event",
     "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000000155.000034342.html",
-    "fetched": "2026-11-16"
+    "url": "https://prtimes.jp/main/html/rd/p/000000157.000034342.html",
+    "fetched": "2026-11-17"
    }
   ],
   "161": [
@@ -702,7 +700,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000008.000179859.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "コンラッド名古屋、ホリデーシーズンを彩る限定クリスマスケーキの予約受付とシュトーレンの販売を開始",
@@ -712,7 +710,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000009.000179859.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "167": [
@@ -724,7 +722,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000031.000153254.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "ウォルドーフ・アストリア大阪 クリスマスケーキ＆スイーツコレクション2026",
@@ -734,7 +732,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000030.000153254.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "168": [
@@ -746,7 +744,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000194.000074953.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "171": [
@@ -758,7 +756,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000028.000134637.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "172": [
@@ -770,7 +768,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000089.000087710.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ヒルトン広島】フェスティブシーズン限定「クリスマスを描くアフタヌーンティー」を提供",
@@ -780,7 +778,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000088.000087710.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "174": [
@@ -792,7 +790,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000125.000064269.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "176": [
@@ -804,7 +802,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000055.000060961.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ヒルトン沖縄北谷リゾート】『冬の味覚と春を誘う和の饗宴』和食フェア",
@@ -814,7 +812,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000056.000060961.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ヒルトン沖縄北谷リゾート】フェスティブシーズン2026 - 2027",
@@ -824,7 +822,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000057.000060961.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "177": [
@@ -836,7 +834,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000018.000054501.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "193": [
@@ -848,7 +846,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000032.000133512.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "200": [
@@ -860,7 +858,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000011.000180629.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【インターコンチネンタル横浜Pier 8】パティシエ特製の記念日ケーキ付き、大切な日を彩る新ディナーコース「Soiré…",
@@ -870,7 +868,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000013.000180629.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【インターコンチネンタル横浜Pier 8】年越しも元旦も、アクティビティを満喫する宿泊プラン販売開始",
@@ -880,7 +878,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000014.000180629.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "204": [
@@ -892,7 +890,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000068.000009454.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "207": [
@@ -904,7 +902,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000002527.000016682.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "209": [
@@ -916,7 +914,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000080.000123158.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ東京渋谷】いちごの魅力を巡る「ストロベリーアドベンチャー」3つのテーマで展開するアフタヌーンティーが…",
@@ -926,7 +924,17 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000082.000123158.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
+   },
+   {
+    "title": "【ホテルインディゴ東京渋谷】渋谷の真ん中で、日常を離れて特別なひとときを過ごすプライベートドーム「渋谷ダイニングドーム…",
+    "shortTitle": "渋谷の真ん中で、日常を離れて特別なひとときを過ごすプライベートドーム「渋谷ダイニングド…",
+    "start": "2026-12-23",
+    "end": "2026-12-25",
+    "kind": "event",
+    "sourceName": "PR TIMES",
+    "url": "https://prtimes.jp/main/html/rd/p/000000084.000123158.html",
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ東京渋谷】クリスマスと新年を彩るシーズナルメニュー",
@@ -936,7 +944,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000083.000123158.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "211": [
@@ -948,7 +956,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000066.000116513.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ犬山有楽苑】Inuyama Christmas Story クリスマスに犬山の物語と彩りを",
@@ -958,7 +966,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000069.000116513.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ犬山有楽苑】心と身体を温めるウィンター・ウェルビーイングステイ",
@@ -968,7 +976,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000072.000116513.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ犬山有楽苑】日本料理の名店「賛否両論」笠原 将弘氏が犬山に再び",
@@ -978,7 +986,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000073.000116513.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ犬山有楽苑】冬灯りの甘味小路 スイーツビュッフェ",
@@ -988,7 +996,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000071.000116513.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ホテルインディゴ犬山有楽苑】犬山 冬庭遊山（とうていゆさん）アフタヌーンティー",
@@ -998,7 +1006,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000070.000116513.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "213": [
@@ -1010,7 +1018,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000047.000117222.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【voco大阪セントラル】童心のワクワク感を呼び覚ます「クリスマス絵本のアフタヌーンティー」を11月21日（土）より開…",
@@ -1020,7 +1028,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000051.000117222.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "225": [
@@ -1032,7 +1040,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000065.000071454.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "226": [
@@ -1044,7 +1052,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000041.000015641.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "227": [
@@ -1056,7 +1064,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000064.000049322.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "238": [
@@ -1068,7 +1076,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000990.000053012.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "269": [
@@ -1080,7 +1088,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000388.000080380.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【フォーシーズンズホテル丸の内 東京】東京駅を望む特等席で楽しむ、華やかなフェスティブアフタヌーンティー",
@@ -1090,7 +1098,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000387.000080380.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【フォーシーズンズホテル丸の内 東京】心高鳴るホリデーシーズンを華やかに彩るフェスティブコレクションが登場",
@@ -1100,7 +1108,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000383.000080380.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "270": [
@@ -1112,7 +1120,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000378.000080380.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "274": [
@@ -1124,7 +1132,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000073.000070053.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "276": [
@@ -1136,7 +1144,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000139.000034401.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【デュシタニ京都】冬の京都をゆったりと味わう宿泊プラン「A Little More to Enjoy」の販売を開始",
@@ -1146,19 +1154,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000137.000034401.html",
-    "fetched": "2026-11-16"
-   }
-  ],
-  "277": [
-   {
-    "title": "【バンヤンツリー・東山 京都】割烹「りょうぜん」が織りなすフェスティブシーズン 東山の冬景色と隈研吾氏監修の舞台を目の…",
-    "shortTitle": "割烹「りょうぜん」が織りなすフェスティブシーズン 東山の冬景色と隈研吾氏監修の舞台を目…",
-    "start": "2026-11-23",
-    "end": "2026-12-28",
-    "kind": "afternoonTea",
-    "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000000076.000142729.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "278": [
@@ -1170,7 +1166,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000218.000057605.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【パーク ハイアット 京都】「ザ リビングルーム」×発酵エイジングケア*ブランド「FAS」心華やぐフェスティブ期間を彩…",
@@ -1180,7 +1176,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000088.000070995.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "279": [
@@ -1192,7 +1188,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000104.000069488.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "280": [
@@ -1204,7 +1200,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000386.000080380.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "282": [
@@ -1216,20 +1212,10 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000046.000145111.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "283": [
-   {
-    "title": "【フォーシーズンズホテル大阪】クリスマスケーキ3種 10月15日（木）より予約受付開始",
-    "shortTitle": "クリスマスケーキ3種",
-    "start": "2026-10-15",
-    "end": "2026-12-18",
-    "kind": "restaurant",
-    "sourceName": "PR TIMES",
-    "url": "https://prtimes.jp/main/html/rd/p/000000384.000080380.html",
-    "fetched": "2026-11-16"
-   },
    {
     "title": "【フォーシーズンズホテル大阪】フェスティブプロモーション",
     "shortTitle": "フェスティブプロモーション",
@@ -1238,7 +1224,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000385.000080380.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "285": [
@@ -1250,7 +1236,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000432.000047917.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "294": [
@@ -1262,7 +1248,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000040.000149320.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "296": [
@@ -1274,7 +1260,7 @@
     "kind": "stay",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000288.000060756.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "299": [
@@ -1286,7 +1272,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000042.000033799.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ハイアット リージェンシー 箱根 リゾート&スパ】河豚や地魚の旨みを堪能する縁起の良い会席コース「福」が12月より登場",
@@ -1296,7 +1282,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000044.000033799.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "300": [
@@ -1308,7 +1294,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000071.000053527.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "301": [
@@ -1320,7 +1306,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000100.000058398.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "ハイアット セントリック 金沢 | 時を越えて愛されるスイーツに、新たなエッセンスを重ねて贈る「ネオクラシック アフタ…",
@@ -1330,7 +1316,7 @@
     "kind": "afternoonTea",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000102.000058398.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "303": [
@@ -1342,7 +1328,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000110.000036993.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ハイアット リージェンシー 京都】ル・プチシェフの新作「How to Become the World’s Grea…",
@@ -1352,7 +1338,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000111.000036993.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    },
    {
     "title": "【ハイアット リージェンシー 京都】美食とともに祝う、フェスティブシーズン 2026–2027 各レストランの特別メニ…",
@@ -1362,7 +1348,7 @@
     "kind": "restaurant",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000112.000036993.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ],
   "308": [
@@ -1374,7 +1360,7 @@
     "kind": "event",
     "sourceName": "PR TIMES",
     "url": "https://prtimes.jp/main/html/rd/p/000000062.000119036.html",
-    "fetched": "2026-11-16"
+    "fetched": "2026-11-17"
    }
   ]
  }
